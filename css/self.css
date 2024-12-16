@@ -5,4 +5,5 @@
 #aside-content .card-widget.card-info.text-center {
   /* background: linear-gradient(to right bottom, rgba(51, 204, 187, .9), rgba(153, 238, 221, .9), rgba(51, 221, 153, .9)) !important; */
   background: linear-gradient(to right, rgba(238, 162, 162, .9) 0%, rgba(187, 193, 191, .9) 19%, rgba(87, 198, 225, .9) 42%, rgba(180, 159, 218, .9) 79%, #7ac5d8 100%) !important;
+  /* background-image: linear-gradient(to top, rgba(55, 236, 186, .9) 0%, rgb(114, 175, 211, .9) 100%); */
 }
