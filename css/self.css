@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'MyCustomFont';  /* 自定义字体的名称 */
+  src: url('../font/萝莉体.ttf') format('truetype');  /* 字体文件的URL路径 */
+       /* url('https://example.com/fonts/MyCustomFont.woff') format('woff');   字体文件的备选路径 */
+  font-weight: normal;  /* 字体粗细 */
+  font-style: normal;   /* 字体样式（正常、斜体等） */
+}
+
+body {
+  font-family: 'MyCustomFont', sans-serif !important;  /* 使用本地托管的字体 */
+}
+
 #recent-posts .recent-post-items .recent-post-item {
   opacity: .9 !important;
 }
